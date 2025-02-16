@@ -1,8 +1,8 @@
-[![MasterHead](https://example.com/valid-image-url)](https://rishavchanda.io)
+[![MasterHead](./images/Navy-White-Modern-Digital-Technology-Blog-Banner--1500---400-px---1500---800-px-.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Gabriel Olaitan</h1>
 <h3 align="center">A passionate Data Analyst</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="400" src="./images/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielolaitan&label=Profile%20views&color=0e75b6&style=flat" alt="gabrielolaitan" /> </p>
 
