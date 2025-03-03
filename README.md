@@ -1,5 +1,4 @@
 [![MasterHead](./images/Navy-White-Modern-Digital-Technology-Blog-Banner--1500---400-px---1500---800-px-.gif)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Gabriel Olaitan</h1>
 <h3 align="center">A passionate Data Analyst</h3>
 
 <img align="right" alt="Coding" width="400" src="./images/coding.gif">
